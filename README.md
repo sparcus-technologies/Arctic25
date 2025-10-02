@@ -49,6 +49,7 @@
 ```bash
 # Clone repository
 git clone https://github.com/sparcus-technologies/Arctic25.git
+```
 
 ## 📧 Contact
 Author: Boris Kriuk
